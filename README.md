@@ -2,7 +2,10 @@
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-brightgreen)
 
-<b>Simple Yet A Feature Rich Music Player Application.</b></br>
+<b>Author: https://www.youtube.com/@harshRajpurohit </b>
+
+
+<b>Simple Yet A Feature Rich Music Player Application </b></br>
 
 <b>Apk Link (Try it yourself & I would love to hear your feedback 🙂):<b>
   <br>https://drive.google.com/file/d/1jn-_EqFt_-BBPLQIj3BBHvUIoEzD6SDW/view?usp=sharing (v2.0.0 - 10)
